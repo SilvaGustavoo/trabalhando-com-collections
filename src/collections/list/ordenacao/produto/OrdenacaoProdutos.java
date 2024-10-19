@@ -5,11 +5,11 @@ import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
 
-public class ListaProdutos {
+public class OrdenacaoProdutos {
     
     private List<Produtos> list_produtos;
 
-    public ListaProdutos() {
+    public OrdenacaoProdutos() {
         this.list_produtos = new ArrayList<>();
     }
 
@@ -40,7 +40,7 @@ public class ListaProdutos {
 
     public static void main(String[] args) {
         
-        ListaProdutos lista = new ListaProdutos();
+        OrdenacaoProdutos lista = new OrdenacaoProdutos();
 
         Produtos produto1 = new Produtos("Notebook", 2500.0, "1234567890123");
         Produtos produto2 = new Produtos("Mouse", 150.0, "9876543210987");

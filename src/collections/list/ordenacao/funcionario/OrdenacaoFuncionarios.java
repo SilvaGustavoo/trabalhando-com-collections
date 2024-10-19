@@ -12,11 +12,11 @@ import java.util.List;
 
 
 
-public class ListaFuncionarios {
+public class OrdenacaoFuncionarios {
 
     private List<Funcionario> list_funcionario;
 
-    public ListaFuncionarios() {
+    public OrdenacaoFuncionarios() {
         this.list_funcionario = new ArrayList<>();
     }
 
@@ -47,7 +47,7 @@ public class ListaFuncionarios {
 
     public static void main(String[] args) {
         
-        ListaFuncionarios listaFuncionarios = new ListaFuncionarios();
+        OrdenacaoFuncionarios listaFuncionarios = new OrdenacaoFuncionarios();
 
         listaFuncionarios.adicionarFuncionario(new Funcionario("João", "Gerente", 40));
         listaFuncionarios.adicionarFuncionario(new Funcionario("Otavio", "Gerente", 40));

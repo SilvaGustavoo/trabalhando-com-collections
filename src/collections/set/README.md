@@ -1,5 +1,5 @@
 
-# Trabalhando com List
+# Trabalhando com Set
 
 ***Mentora:*** [Camilla Calvacante](https://www.linkedin.com/in/cami-la/)
 

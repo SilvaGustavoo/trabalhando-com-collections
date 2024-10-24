@@ -1,5 +1,5 @@
 
-# Trabalhando com List
+# Trabalhando com Map
 
 ***Mentora:*** [Camilla Calvacante](https://www.linkedin.com/in/cami-la/)
 
@@ -9,7 +9,7 @@
 
 ## Estrutura dos arquivos
 
-Ao decorrer das pastas foram realizadas diversas atividades em torno do uso dos utilitários `List` e ``ArrayList``, `Comparable`, ``Comparator`` e ``Collections``. As atividades foram organizadas em packages para cada um dos conteúdos:
+Ao decorrer das pastas foram realizadas diversas atividades em torno do uso dos utilitários `Map`, `TreeMap`, `LinkedHashMap`, `Entry`, ``HashMap``, `Comparable`, ``Comparator`` e ``Collections``. As atividades foram organizadas em packages para cada um dos conteúdos:
 
 - OperacoesBasicas
 - Ordenacao
@@ -19,7 +19,7 @@ Para as atividades **<u>OperacoesBasicas</u>** foi realizado cada classe solicit
 
 Ja as atividades do package **<u>Pesquisa</u>** foi realizado a criação da classe e do main executor no mesmo arquivo `EstoqueProduto` e `ContagemPalavras`.
 
-Por fim a **<u>Ordenacao</u>** foram criados packages específicos a cada atividade. A classe executora main fica localizada ao final de todos os arquivos que possuem final `[Nome]Ordenacao.java`.
+Por fim a **<u>Ordenacao</u>** foram criados packages específicos a cada atividade. A classe executora main fica localizada ao final do arquivo `LivrariaOnline.java`.
 O **Comparator personalizado** fica localizado no fim da classe `LivrariaOnline.java`.
 
 
